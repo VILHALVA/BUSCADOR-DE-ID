@@ -1,8 +1,10 @@
 # BUSCADOR DE ID
+🧑‍💻ENCONTRE O ID DO SEU GRUPO OU CANAL DO TELEGRAM COM ESSE SIMPLES BOT EM PYTHON.
+
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-TELEGRAM%20BOT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT)
 
-<img src="https://smartbotsland.com/bots/wp-content/uploads/2022/07/Subscription-Bot.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## AVISO:
 Até a data de lançamento deste bot (18/01/2024), o aplicativo oficial do Telegram não oferece uma função nativa que permita aos usuários descobrir o ID de algum grupo ou canal. Aqueles que conseguem realizar essa tarefa geralmente utilizam clientes personalizados do Telegram que disponibilizam tal recurso ou contam com a assistência de bots especializados. Foi com o intuito de preencher essa lacuna que desenvolvi a minha própria versão simplificada desse recurso. Mesmo que o Telegram venha a incorporar essa funcionalidade em futuras atualizações, manterei este bot ativo aqui no [GITHUB](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT) como uma alternativa prática e acessível.
