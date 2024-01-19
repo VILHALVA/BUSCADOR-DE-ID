@@ -19,6 +19,7 @@ Esse bot do Telegram tem duas funcionalidades principais:
 2. **Mensagens Encaminhadas:**
    - Quando o usuário encaminha uma mensagem (textual, foto, vídeo, áudio, documento, adesivo, voz, etc.) de um grupo ou canal, o bot responde com uma mensagem contendo o ID do chat da mensagem original.
    - O ID do chat é uma identificação única associada ao grupo ou canal de onde a mensagem foi encaminhada.
+   - O trecho `<b>` e `</b>` envolve o texto "ID DO CHAT:", tornando-o em negrito, enquanto a tag `<code>` e `</code>` é usada para formatar o ID do chat em um estilo de código (Permitindo que você copie o id para área de transferência apenas clicando nele).
 
 ## COMO USAR?
 1. **Coloque o Token:**
