@@ -22,14 +22,21 @@ Esse bot do Telegram tem duas funcionalidades principais:
 1. **Coloque o Token:**
    - Antes de executar o programa, é necessário substituir o token do seu bot na linha `4`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
 
-2. **Inicie o Bot:**
+2. **Instalando as dependências:**
+   - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
-```bash
+   ```bash
    python CODIGO.py
-```
+   ```
+
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e instruções.
 
-3. **Encaminhar Mensagem:**
+4. **Encaminhar Mensagem:**
    - Encaminhe uma mensagem de um grupo ou canal para o bot.
    - O bot identifica o ID do chat da mensagem original e responde enviando uma mensagem com esse ID.
 
